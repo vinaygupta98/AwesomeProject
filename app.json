@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AwesomeProject",
-    "slug": "AwesomeProject",
+    "slug": "animation",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bc87c3be-9101-45a0-91b0-0e77e27f3c8a"
+      }
+    },
+    "owner": "vinaygupta7516"
   }
 }
